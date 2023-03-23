@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\BWD_Demo\BWD_Demo\obj\Debug\BWD_Demo.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BWD_Demo\BWD_Demo\obj\Debug\BWD_Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\BWD_Demo\BWD_Demo\obj\Debug\BWD_Demo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BWD_Demo\BWD_Demo\bin\Debug\BWD_Demo.exe.config
+C:\Users\HP\source\repos\BWD_Demo\BWD_Demo\bin\Debug\BWD_Demo.exe
+C:\Users\HP\source\repos\BWD_Demo\BWD_Demo\bin\Debug\BWD_Demo.pdb
+C:\Users\HP\source\repos\BWD_Demo\BWD_Demo\obj\Debug\BWD_Demo.exe
+C:\Users\HP\source\repos\BWD_Demo\BWD_Demo\obj\Debug\BWD_Demo.pdb

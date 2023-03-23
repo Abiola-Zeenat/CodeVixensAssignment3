@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BWD_Demo", "BWD_Demo\BWD_Demo.csproj", "{AE3997BA-5867-4351-B6CE-49EE99020D1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE3997BA-5867-4351-B6CE-49EE99020D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3997BA-5867-4351-B6CE-49EE99020D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3997BA-5867-4351-B6CE-49EE99020D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3997BA-5867-4351-B6CE-49EE99020D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36088C25-69CB-4C6D-BE9B-E7B05F701C23}
+	EndGlobalSection
+EndGlobal
